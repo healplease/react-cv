@@ -1,0 +1,135 @@
+{
+    "main": {
+        "name": "Oleksii Hava",
+        "description": "Backend guru and frontend prodigy, I am a full-stack developer, using Python/Flask and ReactJS to build web applications",
+        "image": "profilepic.jpg",
+        "bio": "Hi there! During my work hours I am a full-stack developer, which means I can build a web application from the ground up. I have a lot of experience with Python, Flask, React, PostgresQL and MS Azure. In my spare time I am a D&D Dungeon Master and a bass guitar player. I am also a fan of chess and I am always up for a game.",
+        "contactmessage": "I prefer LinkedIn for business communications and offers.",
+        "email": "gavaalex2012@gmail.com",
+        "phone": "+48-536-762-658",
+        "github": "https://github.com/healplease",
+        "project": "https://www.linkedin.com/in/healplease/",
+        "address": {
+            "street": "Lukasinskiego, 4",
+            "city": "Lodz",
+            "state": "Poland",
+            "zip": "93-172"
+        },
+        "website": "https://healplease.github.io/",
+        "resumedownload": "https://healplease.github.io/",
+        "social": [
+            {
+                "name": "telegram",
+                "url": "https://t.me/healplease",
+                "className": "fa fa-play-circle"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/hailplease",
+                "className": "fa fa-twitter-square"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/healplease/",
+                "className": "fa fa-linkedin-square"
+            },
+            {
+                "name": "chess.com",
+                "url": "https://www.chess.com/member/healplease",
+                "className": "fa fa-fire"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/healplease",
+                "className": "fa fa-github-square"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "I am working in IT industry for 7 years now, 5 of them working with Python and 2 with ReactJS as well. I have really good understanding of cloud services, and my speciality is Microsoft Azure. I have a lot of experience building durable Azure Functions and Web Apps. When it comes to databases, I've been working with PostgresQL for my entire commercial experience, but I am also familiar with NoSQL databases like MongoDB. As a backend developer, I have a good grasp on REST API creation and thousand of CRUDs were created by me. I am a fun of Docker, though I didn't have an opportunity to work with Kubernetes. As a DevOps of my teams, I am also responsible for pipelines, and I am capable of creting CI/CD pipelines on Azure DevOps.",
+        "education": [
+            {
+                "school": "Zaporizhya State University",
+                "degree": "Programming and Computer Science",
+                "graduated": "June 2018",
+                "description": "In my university I got a variety of different programming skills, like algorithms and data structures, object-oriented programming and linear algebra."
+            }
+        ],
+        "work": [
+            {
+                "company": "Honeycomb Software",
+                "title": "Full-stack Developer",
+                "years": "September 2022 - March 2024",
+                "description": "During my work in Honeycomb Software, I finished two projects for clients from North America. The first was a web application that would help hospitals and other facilities to analyze recommendation letters. The second project is a SEO tool that would help to analyze content and compare it against top Google searches and give recommendations on how to improve it."
+            },
+            {
+                "company": "SoftServe",
+                "title": "Backend Developer",
+                "years": "April 2021 - August 2022",
+                "description": "I participated in two projects while working in SoftServe. First project was for British government that would allow rural adresses to apply for a broadband connection. During my second project I was a part of a team that was developing solutions for one of the biggest British internet providers."
+            },
+            {
+                "company": "KeyUA",
+                "title": "Backend Developer",
+                "years": "November 2020 - March 2021",
+                "description": "In KeyUA I was a part of a team that was developing a website and migrating data for one of the biggest mobile providers in Middle East."
+            },
+            {
+                "company": "Absolutist, Ltd.",
+                "title": "Game Developer",
+                "years": "July 2018 - November 2020",
+                "description": "In Absolutist I was developing mobile games for iOS and Android. I was maintaining two of the most popular games in the company's portfolio. Later I was promoted to manage DevOps tools and deployment code for the company's games."
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python & Flask",
+                "level": "95%"
+            },
+            {
+                "name": "Docker",
+                "level": "85%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "80%"
+            },
+            {
+                "name": "Microsoft Azure",
+                "level": "75%"
+            },
+            {
+                "name": "PostgresQL",
+                "level": "80%"
+            },
+            {
+                "name": "Stripe",
+                "level": "70%"
+            },
+            {
+                "name": "HTML5/CSS/JS",
+                "level": "75%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Article SEO Tool",
+                "image": "02.jpg"
+            },
+            {
+                "title": "Admin Page",
+                "image": "01.jpg"
+            },
+            {
+                "title": "UK Government Info",
+                "image": "03.jpg"
+            },
+            {
+                "title": "List Of IPs in rural areas",
+                "image": "04.jpg"
+            }
+        ]
+    }
+}
